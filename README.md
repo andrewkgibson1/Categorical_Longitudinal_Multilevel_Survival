@@ -1,2 +1,2 @@
 # Categorical_Multilevel_Survival
-Basic projects using categorical, multilevel, and survival analyses
+Basic projects using categorical, longitudinal, multilevel, and survival analyses
